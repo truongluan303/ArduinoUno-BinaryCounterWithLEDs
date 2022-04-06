@@ -1,5 +1,5 @@
-# ArduinoUno-BinaryCounterWithLEDs
-Count from 1 to 63 in binary represented by LEDs
+# Arduino Uno - Binary Counter Using LEDs
+Count from 1 to 63 in binary represented by LEDs in an infinite loop.
 
 ### Run Simulation At:
 https://wokwi.com/arduino/projects/319476907263394388
